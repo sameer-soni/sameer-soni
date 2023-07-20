@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 # 📊 GitHub Stats:
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sameer-soni&theme=radical&hide_border=false&include_all_commits=false&count_private=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sameer-soni&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameer-soni&layout=compact&theme=radical"/>
 </p>
 
