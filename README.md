@@ -25,9 +25,10 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=react,js,nodejs,expressjs,mongodb)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sameer-soni&theme=radical&hide_border=false&include_all_commits=false&count_private=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameer-soni&layout=compact&theme=radical"/>
+</p>
 
-
----
-[![](https://visitcount.itsvg.in/api?id=sameer-soni&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
