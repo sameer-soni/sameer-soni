@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 ## 🌐 Socials:
-[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.gg/https://discord.com/users/1109745749111091230) 
+[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/1109745749111091230) 
 
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=react,js,nodejs,expressjs,mongodb)](https://skillicons.dev)
