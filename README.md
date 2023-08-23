@@ -22,12 +22,12 @@ Here are some ideas to get you started:
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/1109745749111091230) 
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=react,js,nodejs,expressjs,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,js,nodejs,expressjs,mongodb,typescript)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sameer-soni&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameer-soni&layout=compact&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sameer-soni&show_icons=true&theme=radical&include_all_commits=false&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameer-soni&theme=radical&layout=compact"/>
 </p>
 
 
