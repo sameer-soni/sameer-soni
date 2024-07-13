@@ -12,18 +12,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 💫 About Me:
-👋 Hi, I'm Sameer<br>💼 I'm a Full Stack and App developer <br>🚀 specializing in JavaScript, TypeScript, React.js, React Native, Node.js, Express.js and MongoDB.<br>👯 I’m looking to collaborate on web projects
+### 👋 About Me
+Hello! I’m a Full Stack Developer who works on web and app development, with a particular interest in backend work. I’m also exploring the world of web3. I’m dedicated to building efficient systems and crafting engaging applications.
 
+### 🚀 Expertise
 
+I specialize in both frontend and backend development. I work on designing user-friendly interfaces and building backend systems that are efficient and reliable. My work includes developing web applications and mobile apps, focusing on delivering quality results.
 
-## 🌐 Socials:
-[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/1109745749111091230) 
+<h2> Skills <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmk0amVkZDZmdGRkc2p3ODA5dnl4ZHkzdzB4ZXBxZzduaWxxdTEzbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YIoRLftPZQCFSQXIzp/giphy.gif" width=40px> </h2
+                                                                                                                                                                                                                  
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,js,nodejs,expressjs,mongodb,typescript,fastapi,prisma,flutter)](https://skillicons.dev)
 
-# 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=react,js,nodejs,expressjs,mongodb,typescript)](https://skillicons.dev)
-
-# 📊 GitHub Stats:
+<h2> GitHub Stats <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW5jZGk1bXZhOXd5dXEzZ2RudGVnYXBwYW9lMDE1ZXJuNmNxbnhteSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/CAIgh8LKFbIciGx5Qe/giphy.gif" width=48px></h2>
 <p>
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sameer-soni&show_icons=true&theme=radical&include_all_commits=false&count_private=true"/> -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sameer-soni&rank_icon=percentile&show_icons=true&theme=algolia&show=reviews&border_radius=8"/>
