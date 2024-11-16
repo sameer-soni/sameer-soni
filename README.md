@@ -32,4 +32,4 @@ I specialize in both frontend and backend development. I work on designing user-
 </p>
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![An image of @sameersoni's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sameersoni)](https://holopin.io/@sameersoni)
